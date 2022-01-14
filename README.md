@@ -1,3 +1,5 @@
+## This repositoy is no longer maintained as @GameKuchen has merged this fork on his repo.
+
 ## Door-Restart-System V3.2
 ![img](https://img.shields.io/github/downloads/gamekuchen/doorrestartsystem/total?style=for-the-badge)
 ## Info
